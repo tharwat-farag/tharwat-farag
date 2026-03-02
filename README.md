@@ -11,81 +11,69 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Engineer+%F0%9F%94%A5;Python+Developer+%F0%9F%90%8D;ETL+Pipeline+Builder+%E2%9A%99%EF%B8%8F;Turning+Raw+Data+into+Business+Value+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Data+Engineer;⚡+ETL+Pipeline+Architect;🏗️+Building+Data+Warehouses;📊+Turning+Raw+Data+into+Value" />
 
-</div>
 
----
+## 👨‍💻 About Me
 
-### ⚡ Quick Snapshot
+Computer Science graduate passionate about designing scalable data systems and transforming raw data into business value.
 
-<table align="center">
-<tr>
-<td width="60%">
-
-👋 **Hello World!**  
-I'm a Computer Science graduate and Data Engineering trainee passionate about building scalable data systems.
-
-🔍 **Expertise:**  
-- Designing ETL pipelines  
-- Data cleaning & transformation  
-- SQL optimization & relational database design  
-- Workflow automation using Python  
-
-📊 **Currently Learning:**  
-- Apache Spark  
-- Data Warehousing  
-- Data Modeling  
-- Airflow  
-
-🎯 **Goal:**  
-To become a Senior Data Engineer building distributed, high-performance data platforms.
-
-</td>
-</tr>
-</table>
+- 🔥 Designing end-to-end ETL pipelines  
+- 🗄️ Building optimized relational database schemas  
+- 📊 Applying data cleaning & transformation best practices  
+- ⚙️ Automating workflows using Python  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🎓 Education
+
+🎓 Bachelor of Computers & Informatics (Computer Science)  
+🏛️ Tanta University  
+📅 Graduated: May 2023  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,bootstrap,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,vscode&theme=dark" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL-Pipeline-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/ETL-Engineering-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Data%20Modeling-Architecture-orange?style=flat-square" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🔹 ETL Pipeline Project
-- Extracted raw CSV data
-- Transformed datasets using Pandas
-- Loaded into MySQL database
-- Automated process using Python scripts
+### 🔹 Automated ETL Pipeline
+- Designed and implemented a full ETL workflow  
+- Applied data validation & cleaning techniques  
+- Optimized MySQL schema for performance  
+- Automated processing using Python  
 
-#### 🔹 Data Analysis Project
-- Performed exploratory data analysis
-- Built visualizations using Matplotlib
-- Generated actionable insights
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-</p>
+### 🔹 Data Analysis Project
+- Performed exploratory data analysis  
+- Built visualizations using Matplotlib  
+- Generated actionable business insights  
 
 ---
 
-### 🌐 Connect With Me
+## 📂 Current Focus
+
+- Advanced SQL Optimization  
+- Data Warehousing Concepts  
+- Apache Spark  
+- Workflow Orchestration (Airflow)  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tharwat-farag">
@@ -102,5 +90,5 @@ To become a Senior Data Engineer building distributed, high-performance data pla
 ---
 
 <p align="center">
-🔥 <strong>“Data is the new oil, but only if refined properly.”</strong> 🔥
+⚙️ <strong>Building Data Systems That Scale.</strong>
 </p>
