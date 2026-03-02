@@ -81,8 +81,6 @@ To become a Senior Data Engineer building distributed, high-performance data pla
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tharwat-farag&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharwat-farag&layout=compact&theme=tokyonight" />
 </p>
 
 ---
