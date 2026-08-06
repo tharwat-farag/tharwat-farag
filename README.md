@@ -1,4 +1,4 @@
-# <p align="center">✨ Tharwat Farag | Microsoft Fabric Data Engineer ✨</p>
+# <p align="center">✨ Tharwat Farag | Data Engineer ✨</p>
 
 <p align="center">
 <strong>
@@ -10,18 +10,30 @@ Azure Data Fundamentals (DP-900)
 </p>
 
 <p align="center">
-Building Scalable Data Pipelines • Data Warehousing • Microsoft Fabric • Big Data Processing
+Building Modern Data Platforms • ETL/ELT • Microsoft Fabric • Data Warehousing • Big Data
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DP--700-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Microsoft Certified Data Engineer with Microsoft Fabric certifications (DP-700, DP-600) and Azure Data Fundamentals (DP-900). Passionate about designing scalable ETL/ELT pipelines, building modern data platforms, and delivering analytics solutions using Python, SQL, Microsoft Fabric, Azure, Apache Spark, and SQL Server.
+Microsoft Certified Data Engineer with **Microsoft Fabric certifications (DP-700 & DP-600)** and **Azure Data Fundamentals (DP-900)**.
+
+Passionate about designing scalable **ETL/ELT pipelines**, modern data platforms, and analytics solutions using **Python, SQL, Microsoft Fabric, Azure, Apache Spark, SQL Server, and Power BI**.
 
 Successfully completed the **Digilians Data Engineering Program** at the **Egyptian Military Academy** in collaboration with the **Ministry of Communications and Information Technology (MCIT)**.
 
-Experienced in designing data warehouses, optimizing SQL workloads, orchestrating data pipelines, and transforming raw data into analytics-ready datasets. Previously led the development of EdTech platforms serving over **130,000 active users** across Egypt and the Middle East.
+Previously served as **Technical Lead** for Learning Management Systems supporting more than **130,000 active users** across Egypt and the Middle East.
 
 ---
 
@@ -45,12 +57,14 @@ Experienced in designing data warehouses, optimizing SQL workloads, orchestratin
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,docker,azure,vscode&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,docker,azure,vscode&theme=dark"/>
+
 </p>
 
 <p align="center">
 
-**Python • SQL • SQL Server • PostgreSQL • Microsoft Fabric • Power BI • SSIS • Hadoop • Hive • Apache Spark (PySpark) • Apache Airflow • Docker • Azure • ETL/ELT • Data Warehousing • Data Modeling**
+**Python • SQL • Microsoft Fabric • Power BI • SQL Server • PostgreSQL • Apache Spark • Apache Airflow • SSIS • Hadoop • Hive • Docker • Azure**
 
 </p>
 
@@ -60,22 +74,19 @@ Experienced in designing data warehouses, optimizing SQL workloads, orchestratin
 
 ### 🥇 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
-- ✅ **Status:** Active
-- 🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F)**
+🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F)**
 
 ---
 
 ### 🥈 Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
 
-- ✅ **Status:** Active
-- 🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C)**
+🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C)**
 
 ---
 
 ### 🥉 Microsoft Certified: Azure Data Fundamentals (DP-900)
 
-- ✅ **Status:** Active
-- 🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C)**
+🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C)**
 
 ---
 
@@ -84,46 +95,46 @@ Experienced in designing data warehouses, optimizing SQL workloads, orchestratin
 ### 🚀 SSIS Data Warehouse ETL Pipeline
 
 - Built an end-to-end SQL Server Data Warehouse
-- Designed Star Schema architecture
-- Developed ETL workflows using SSIS
+- Designed Star Schema Architecture
+- Developed ETL Workflows using SSIS
 - Implemented SCD Type 1 & Type 2
-- Integrated SSAS & SSRS reporting
+- Integrated SSAS & SSRS Reporting
 
 ---
 
 ### 🚀 Apache Airflow ETL Pipeline
 
-- Built automated ETL workflows
+- Built Automated ETL Workflows
 - Apache Airflow & Astronomer
-- Dockerized deployment
-- Workflow scheduling and monitoring
+- Dockerized Deployment
+- Workflow Scheduling & Monitoring
 
 ---
 
 ### 🚀 Hospital Admissions Big Data Pipeline
 
-- Python data processing
+- Python Data Processing
 - Hadoop & Hive
-- Dockerized environment
-- Analytics-ready datasets
+- Dockerized Environment
+- Analytics-ready Data Pipeline
 
 ---
 
 ### 🚀 Selenium ETL Pipeline
 
-- Automated web scraping
-- API integration
-- Data transformation using Pandas
-- SQLite storage
+- Automated Web Scraping
+- API Integration
+- Pandas Data Transformation
+- SQLite Storage
 
 ---
 
 ### 🚀 E-Commerce SQL Database
 
-- SQL Server relational database
-- Database schema design
-- Business analytics queries
-- Query optimization
+- SQL Server Database Design
+- Business Analytics Queries
+- Query Optimization
+- Relational Data Modeling
 
 ---
 
@@ -138,6 +149,11 @@ Experienced in designing data warehouses, optimizing SQL workloads, orchestratin
 
 ---
 
+## 🤝 Let's Connect
+
+I'm always open to discussing **Data Engineering, Microsoft Fabric, ETL/ELT, Data Warehousing, and Analytics** opportunities.
+
+---
 
 ## 🌐 Connect With Me
 
@@ -157,10 +173,12 @@ Experienced in designing data warehouses, optimizing SQL workloads, orchestratin
 
 <p align="center">
 
-⭐ **Microsoft Fabric • Data Engineering • Big Data • Analytics**
+⭐ **Microsoft Fabric • Data Engineering • Azure • Big Data**
 
 </p>
 
 <p align="center">
-<i>Engineering Scalable Data Solutions.</i>
+
+<i>Transforming Data into Scalable, Intelligent Solutions.</i>
+
 </p>
