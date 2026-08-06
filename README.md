@@ -1,90 +1,143 @@
-# <p align="center">✨ Tharwat Farag | Data Engineer ✨</p>
+# <p align="center">✨ Tharwat Farag | Microsoft Fabric Data Engineer ✨</p>
 
 <p align="center">
-<strong>Microsoft Certified: Azure Data Fundamentals (DP-900)</strong>
+<strong>
+Microsoft Certified:
+Fabric Data Engineer Associate (DP-700) •
+Fabric Analytics Engineer Associate (DP-600) •
+Azure Data Fundamentals (DP-900)
+</strong>
 </p>
 
 <p align="center">
-Building Scalable Data Pipelines • Data Warehousing • Big Data Processing
+Building Scalable Data Pipelines • Data Warehousing • Microsoft Fabric • Big Data Processing
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Microsoft Certified: Azure Data Fundamentals (DP-900) Data Engineer passionate about building scalable data systems and transforming raw data into actionable insights.
+Microsoft Certified Data Engineer with Microsoft Fabric certifications (DP-700, DP-600) and Azure Data Fundamentals (DP-900). Passionate about designing scalable ETL/ELT pipelines, building modern data platforms, and delivering analytics solutions using Python, SQL, Microsoft Fabric, Azure, Apache Spark, and SQL Server.
 
 Successfully completed the **Digilians Data Engineering Program** at the **Egyptian Military Academy** in collaboration with the **Ministry of Communications and Information Technology (MCIT)**.
 
-Hands-on experience designing ETL/ELT pipelines, optimizing SQL queries, processing large datasets, and building analytics-ready data solutions using modern data engineering technologies.
+Experienced in designing data warehouses, optimizing SQL workloads, orchestrating data pipelines, and transforming raw data into analytics-ready datasets. Previously led the development of EdTech platforms serving over **130,000 active users** across Egypt and the Middle East.
 
 ---
 
 ## 🚀 Core Expertise
 
-- Building scalable end-to-end ETL/ELT pipelines
+- End-to-End ETL/ELT Pipeline Development
+- Microsoft Fabric Data Engineering
+- Lakehouse & Data Warehouse Architecture
 - Data Cleaning & Transformation using Python
 - SQL Query Optimization & Performance Tuning
-- Data Warehousing & Star Schema Design
-- Data Modeling for Analytical Systems
-- Big Data Processing (Hadoop & Hive)
-- Distributed Data Processing (Apache Spark)
+- Data Modeling & Star Schema Design
+- SQL Server Integration Services (SSIS)
 - Workflow Orchestration (Apache Airflow)
+- Big Data Processing (Hadoop, Hive & Apache Spark)
 - Containerization with Docker
-- Microsoft Azure Fundamentals
-- Business Intelligence & Reporting
+- Business Intelligence & Power BI
+- Azure Data Engineering Fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,docker,azure,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,docker,azure,vscode&theme=dark" />
 </p>
 
 <p align="center">
-<strong>
-Python • SQL • Hadoop • Hive • Spark • Airflow • Docker • Azure • ETL/ELT • Data Warehousing • Data Modeling
-</strong>
+
+**Python • SQL • SQL Server • PostgreSQL • Microsoft Fabric • Power BI • SSIS • Hadoop • Hive • Apache Spark (PySpark) • Apache Airflow • Docker • Azure • ETL/ELT • Data Warehousing • Data Modeling**
+
 </p>
 
 ---
 
-## 🏅 Certifications
+## 🏅 Microsoft Certifications
 
-### 🔗 Microsoft Certified: Azure Data Fundamentals (DP-900)
+### 🥇 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 
-- 📅 **Issued:** July 2026
+- ✅ **Status:** Active
+- 🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F)**
+
+---
+
+### 🥈 Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+
+- ✅ **Status:** Active
+- 🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C)**
+
+---
+
+### 🥉 Microsoft Certified: Azure Data Fundamentals (DP-900)
+
 - ✅ **Status:** Active
 - 🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C)**
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Featured Projects
 
-Developed end-to-end data engineering solutions focused on transforming raw data into structured, analytics-ready datasets.
+### 🚀 SSIS Data Warehouse ETL Pipeline
 
-- Built scalable ETL/ELT pipelines for structured and semi-structured data
-- Designed data cleaning and transformation workflows using Python
-- Processed large datasets using Hive and Apache Spark
-- Developed optimized SQL queries for analytics and reporting
-- Built Data Warehouse solutions using SQL Server & SSIS
-- Implemented Star Schema and SCD Type 1 & Type 2
-- Automated workflows using Apache Airflow
-- Containerized data environments using Docker
-- Delivered dashboard-ready datasets for Business Intelligence
+- Built an end-to-end SQL Server Data Warehouse
+- Designed Star Schema architecture
+- Developed ETL workflows using SSIS
+- Implemented SCD Type 1 & Type 2
+- Integrated SSAS & SSRS reporting
 
 ---
 
-## 📂 Current Focus
+### 🚀 Apache Airflow ETL Pipeline
+
+- Built automated ETL workflows
+- Apache Airflow & Astronomer
+- Dockerized deployment
+- Workflow scheduling and monitoring
+
+---
+
+### 🚀 Hospital Admissions Big Data Pipeline
+
+- Python data processing
+- Hadoop & Hive
+- Dockerized environment
+- Analytics-ready datasets
+
+---
+
+### 🚀 Selenium ETL Pipeline
+
+- Automated web scraping
+- API integration
+- Data transformation using Pandas
+- SQLite storage
+
+---
+
+### 🚀 E-Commerce SQL Database
+
+- SQL Server relational database
+- Database schema design
+- Business analytics queries
+- Query optimization
+
+---
+
+## 📚 Current Focus
 
 - Microsoft Fabric
-- Advanced Apache Spark
-- Cloud Data Engineering (Azure)
-- Workflow Orchestration (Apache Airflow)
 - Lakehouse Architecture
+- Apache Spark (PySpark)
+- Azure Data Factory
+- Advanced Data Warehousing
+- Scalable ETL/ELT Pipelines
 
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -94,7 +147,7 @@ Developed end-to-end data engineering solutions focused on transforming raw data
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:tharwatfarag61@gmail.com">
+<a href="mailto:tharwatbadreldin@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -103,5 +156,11 @@ Developed end-to-end data engineering solutions focused on transforming raw data
 ---
 
 <p align="center">
-⚙️ <strong>Engineering Scalable Data Solutions.</strong>
+
+⭐ **Microsoft Fabric • Data Engineering • Big Data • Analytics**
+
+</p>
+
+<p align="center">
+<i>Engineering Scalable Data Solutions.</i>
 </p>
