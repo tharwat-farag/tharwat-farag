@@ -16,13 +16,25 @@ Building Modern Data Platforms • ETL/ELT • Microsoft Fabric • Data Warehou
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/DP--700-Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F">
+<img src="https://img.shields.io/badge/DP--700-Fabric_Data_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C">
+<img src="https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/DP--800-SQL_AI_Developer_Associate-107C10?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
 
+<p align="center">
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/D62027E6DB724E80?sharingId=7133F8B6DECF797C">
+<img src="https://img.shields.io/badge/DP--800-SQL_AI_Developer-107C10?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C">
 <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
 
 </p>
 
