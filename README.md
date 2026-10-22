@@ -1,253 +1,261 @@
-# <p align="center">✨ Tharwat Farag | Data Engineer ✨</p>
+# Tharwat Farag | Data Engineer
 
 <p align="center">
-<strong>
-Microsoft Certified:
-Fabric Data Engineer Associate (DP-700) •
-Fabric Analytics Engineer Associate (DP-600) •
-SQL AI Developer Associate (DP-800) •
-Azure Data Fundamentals (DP-900)
-</strong>
+  <strong>Data Engineering • SQL & Database Engineering • Modern Data Platforms</strong>
 </p>
 
 <p align="center">
-Building Modern Data Platforms • ETL/ELT • Microsoft Fabric • Data Warehousing • Big Data
+  Microsoft Certified: DP-700 • DP-600 • DP-800 • DP-900
 </p>
 
 <p align="center">
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F">
-<img src="https://img.shields.io/badge/DP--700-Fabric_Data_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C">
-<img src="https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-
+  Building Reliable Data Pipelines, Quality Data Platforms, and Analytics-Ready Datasets
 </p>
 
 <p align="center">
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/D62027E6DB724E80?sharingId=7133F8B6DECF797C">
-<img src="https://img.shields.io/badge/DP--800-SQL_AI_Developer-107C10?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C">
-<img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F">
+    <img src="https://img.shields.io/badge/DP--700-Fabric_Data_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DP-700"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C">
+    <img src="https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="DP-600"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/D62027E6DB724E80?sharingId=7133F8B6DECF797C">
+    <img src="https://img.shields.io/badge/DP--800-SQL_AI_Developer-107C10?style=for-the-badge&logo=microsoft&logoColor=white" alt="DP-800"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C">
+    <img src="https://img.shields.io/badge/DP--900-Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="DP-900"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Microsoft Certified Data Engineer with **Microsoft Fabric certifications (DP-700 & DP-600)**, **SQL AI Developer Associate (DP-800)**, and **Azure Data Fundamentals (DP-900)**.
+I'm a **Data Engineer with a professional background in SQL, database administration, technical leadership, and production support**, complemented by hands-on Data Engineering projects and Microsoft certifications.
 
-Passionate about designing scalable **ETL/ELT pipelines, modern data platforms, data warehouses, data quality processes, and analytics solutions** using **Python, SQL, Microsoft Fabric, Azure, Apache Spark, PySpark, Delta Lake, SQL Server, and Apache Airflow**.
+My background combines practical experience supporting real-world software platforms with the technical skills needed to build reliable data pipelines, transform raw data, validate data quality, and prepare analytics-ready datasets.
 
-Successfully completed the **Digilians Data Engineering Program** at the **Egyptian Military Academy** in collaboration with the **Ministry of Communications and Information Technology (MCIT)**.
+Previously, I worked in technical leadership and database-related roles supporting Learning Management Systems and EdTech platforms serving **130,000+ active users**. My responsibilities included troubleshooting technical and database issues, supporting clients after delivery, following problems through resolution, and coordinating with technical teams to maintain reliable systems.
 
-Previously served as **Technical Lead** for Learning Management Systems supporting more than **130,000 active users** across Egypt and the Middle East.
+I completed the **Digilians Data Engineering Program** at the Egyptian Military Academy in collaboration with the **Ministry of Communications and Information Technology (MCIT)**, developing practical skills in ETL/ELT, Microsoft Fabric, data modeling, data quality, and data warehousing.
+
+I'm particularly interested in applying Data Engineering to real business problems, including retail data platforms, product and sales analytics, and scalable data integration.
+
+**My approach:** Understand the business problem, build reliable data processes, validate the results, and deliver datasets that can support informed decisions.
 
 ---
 
-## 🚀 Core Expertise
+## 🎯 Core Expertise
 
 - End-to-End ETL/ELT Pipeline Development
-- Microsoft Fabric Data Engineering
-- Lakehouse & Data Warehouse Architecture
-- Medallion Architecture
-- Data Cleaning & Transformation using Python
-- Data Quality & Validation
-- SQL Query Optimization & Performance Tuning
+- SQL Development, Database Administration & Troubleshooting
+- Data Cleaning, Transformation & Validation
+- Data Quality Testing and Business Rules
 - Data Modeling & Star Schema Design
+- Data Warehouse and Lakehouse Architecture
+- Medallion Architecture: Bronze → Silver → Gold
+- Microsoft Fabric & Delta Lake
+- Python, Pandas, PySpark & Spark SQL
 - SQL Server Integration Services (SSIS)
-- Workflow Orchestration with Apache Airflow
-- Big Data Processing with Hadoop, Hive & Apache Spark
-- PySpark & Spark SQL
-- Delta Lake
-- Containerization with Docker
-- Business Intelligence & Power BI
-- Azure Data Engineering Fundamentals
+- Apache Airflow Workflow Orchestration
+- PostgreSQL & SQL Server
+- Docker-Based Data Engineering Environments
+- Production Issue Resolution & Technical Support
+- Client Follow-Up and Cross-Team Coordination
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,docker,azure,vscode&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,linux,docker,azure,vscode&theme=dark" alt="Technology stack"/>
 </p>
 
 <p align="center">
-
-**Python • SQL • Microsoft Fabric • SQL Server • PostgreSQL • Apache Spark • PySpark • Delta Lake • Apache Airflow • SSIS • Hadoop • Hive • Docker • Azure • Power BI**
-
+  <strong>Languages:</strong> Python, SQL
+  <br/>
+  <strong>Data Engineering:</strong> Microsoft Fabric, Apache Spark, PySpark, Delta Lake, Apache Airflow, SSIS
+  <br/>
+  <strong>Databases:</strong> SQL Server, PostgreSQL, MySQL, SQLite
+  <br/>
+  <strong>Big Data:</strong> Hadoop, Hive
+  <br/>
+  <strong>Tools:</strong> Docker, Git, GitHub, pytest
+  <br/>
+  <strong>Cloud & Analytics:</strong> Azure, Power BI
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. RetailFlow — Supply Chain & Inventory Data Engineering
+
+**Technologies:** Python, PostgreSQL, Docker, SQL, ETL, Data Quality Testing
+
+A hands-on Data Engineering portfolio project designed around retail supply chain and inventory analytics.
+
+- Built a structured pipeline for processing raw data through Bronze and Silver layers.
+- Designed a PostgreSQL analytical warehouse with dimensional tables and inventory-related fact tables.
+- Developed data ingestion, transformation, validation, and warehouse-loading components.
+- Implemented data quality checks and a quarantine approach for invalid records.
+- Designed repeatable ingestion and transactional upsert workflows.
+- Used Docker Compose to support a reproducible local development environment.
+- Added automated tests to validate pipeline behavior and data quality.
+
+🔗 **[View RetailFlow on GitHub](https://github.com/tharwat-farag/retailflow-data-engineering)**
+
+---
+
+### 2. B.Laban Retail Customer & Sales Analytics Platform
+
+**Technologies:** PySpark, Microsoft Fabric, Delta Lake, SQL, pytest
+
+An end-to-end retail data project demonstrating how raw transaction data can be transformed into structured, analytics-ready datasets.
+
+- Implemented a **Bronze → Silver → Gold Medallion Architecture**.
+- Processed a 7,000-row transactional dataset containing 28 columns.
+- Implemented data cleaning, standardization, anomaly flagging, and business-rule validation.
+- Identified 48 invalid transactions while preserving source-data traceability.
+- Produced Gold datasets for branch, product, channel, customer, and daily sales analytics.
+- Added automated data and business-rule validation using pytest.
+- Documented 8 passing automated tests in the project results.
+
+🔗 **[View B.Laban Retail Analytics on GitHub](https://github.com/tharwat-farag/BLaban-Retail-Analytics)**
+
+---
+
+### 3. SQL Server Data Warehouse & SSIS ETL Pipeline
+
+**Technologies:** SQL Server, SSIS, Star Schema, SSAS, SSRS
+
+- Designed a dimensional data warehouse using Star Schema principles.
+- Developed ETL workflows using SQL Server Integration Services.
+- Implemented Slowly Changing Dimensions (SCD) Type 1 and Type 2.
+- Integrated the warehouse design with SSAS and SSRS reporting components.
+
+🔗 **[View SSIS Data Warehouse Project](https://github.com/tharwat-farag/ssis-data-warehouse-etl-pipeline)**
+
+---
+
+### 4. Apache Airflow ETL Pipeline
+
+**Technologies:** Apache Airflow, Python, Docker, Astronomer
+
+- Built automated ETL workflows with scheduled execution.
+- Structured pipeline tasks for repeatable data processing.
+- Used Dockerized deployment for the development environment.
+- Explored workflow orchestration, monitoring, and dependency management.
+
+🔗 **[View Airflow ETL Pipeline](https://github.com/tharwat-farag/airflow-etl-pipeline)**
+
+---
+
+### 5. Real Estate Data Platform
+
+**Technologies:** Python, Web Scraping, Pandas, SQL Server
+
+- Built a data pipeline for collecting and processing real estate listings.
+- Applied data cleaning and validation to extracted records.
+- Stored processed data in SQL Server.
+- Prepared analytical datasets and business KPIs.
+
+🔗 **[View Real Estate Data Platform](https://github.com/tharwat-farag/real-estate-data-platform)**
+
+---
+
+### 6. Hospital Admissions Big Data Pipeline
+
+**Technologies:** Python, Hadoop, Hive, Docker
+
+- Developed a containerized data processing environment.
+- Processed hospital admissions data using Python and Hive.
+- Transformed raw data into analytics-ready datasets.
+
+🔗 **[View Hospital Admissions Pipeline](https://github.com/tharwat-farag/hospital-admissions-data-pipeline)**
+
+---
+
+### 7. Selenium ETL Pipeline
+
+**Technologies:** Selenium, Python, Pandas, SQLite
+
+- Automated web data extraction.
+- Integrated API-based data collection.
+- Transformed extracted data using Pandas.
+- Stored processed records in SQLite.
+
+🔗 **[View Selenium ETL Pipeline](https://github.com/tharwat-farag/selenium-etl-pipeline)**
+
+---
+
+### 8. E-Commerce SQL Database
+
+**Technologies:** SQL Server, Relational Data Modeling, Analytical SQL
+
+- Designed a relational database schema for an e-commerce use case.
+- Populated the database with realistic sample data.
+- Developed SQL queries for business-focused analysis.
+- Applied relational modeling and query optimization techniques.
+
+🔗 **[View E-Commerce SQL Project](https://github.com/tharwat-farag/Ecommerce_SQL_Project)**
 
 ---
 
 ## 🏅 Microsoft Certifications
 
-### 🥇 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**  
+  [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F)
 
-🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-3502/D3D26BEF79BD7428?sharingId=D49385F06DD6DF6F)**
+- **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**  
+  [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C)
 
----
+- **Microsoft Certified: SQL AI Developer Associate (DP-800)**  
+  [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/D62027E6DB724E80?sharingId=7133F8B6DECF797C)
 
-### 🥈 Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
-
-🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/99E761347FF421FC?sharingId=7133F8B6DECF797C)**
-
----
-
-### 🥉 Microsoft Certified: SQL AI Developer Associate (DP-800)
-
-🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/D62027E6DB724E80?sharingId=7133F8B6DECF797C)**
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)**  
+  [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C)
 
 ---
 
-### 🏅 Microsoft Certified: Azure Data Fundamentals (DP-900)
+## 🎓 Education & Professional Development
 
-🔗 **[View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TharwatFarag-8189/28425FC1CDA1EB98?sharingId=7133F8B6DECF797C)**
+**Digilians Data Engineering Program**  
+Egyptian Military Academy in collaboration with the Ministry of Communications and Information Technology (MCIT)
 
----
+Focused on developing practical skills in data engineering, Python, SQL, data transformation, ETL/ELT, data warehousing, and modern data platforms.
 
-## 💼 Featured Projects
-
-### ⭐ B.Laban Retail Customer & Sales Analytics Platform
-
-- Built an end-to-end retail **Data Engineering & Analytics Platform** using **PySpark, Microsoft Fabric, Delta Lake, and SQL**.
-- Implemented a **Bronze → Silver → Gold Medallion Architecture** for transforming raw retail transactions into business-ready datasets.
-- Implemented data cleaning, validation, anomaly flagging, standardization, and business-rule validation.
-- Processed a **7,000-row transactional dataset containing 28 columns**.
-- Identified **48 invalid transactions** while retaining source-data traceability.
-- Produced Gold datasets for **branch, product, channel, customer, and daily sales analytics**.
-- Added automated data and business-rule validation using **pytest**.
-- Achieved **8/8 automated tests passed**.
-- Designed the project to support downstream analytical and reporting use cases.
-
-🔗 **[View Project on GitHub](https://github.com/tharwat-farag/BLaban-Retail-Analytics)**
+**Professional Background:** Technical Leadership, SQL & Database Administration, Software Platform Support, Client Follow-Up, and Production Troubleshooting.
 
 ---
 
-### 🚀 SSIS Data Warehouse ETL Pipeline
+## 📌 Current Focus
 
-- Built an end-to-end SQL Server Data Warehouse.
-- Designed Star Schema Architecture.
-- Developed ETL Workflows using SSIS.
-- Implemented SCD Type 1 & Type 2.
-- Integrated SSAS & SSRS Reporting.
-
-🔗 **[View Project on GitHub](https://github.com/tharwat-farag/ssis-data-warehouse-etl-pipeline)**
-
----
-
-### 🚀 Real Estate Data Platform
-
-- Built an end-to-end real estate data engineering pipeline.
-- Used Python, web scraping, Pandas, SQL Server, and analytical SQL.
-- Implemented data cleaning and quality validation for real estate listings.
-- Produced business KPIs and analytics-ready datasets.
-
-🔗 **[View Project on GitHub](https://github.com/tharwat-farag/real-estate-data-platform)**
-
----
-
-### 🚀 Apache Airflow ETL Pipeline
-
-- Built automated ETL workflows.
-- Used Apache Airflow and Astronomer.
-- Implemented Dockerized deployment.
-- Designed workflow scheduling and monitoring.
-
-🔗 **[View Project on GitHub](https://github.com/tharwat-farag/airflow-etl-pipeline)**
-
----
-
-### 🚀 Hospital Admissions Big Data Pipeline
-
-- Built an end-to-end Big Data pipeline.
-- Processed hospital data using Python, Hive, and Docker.
-- Transformed raw data into analytics-ready datasets.
-- Designed a containerized data processing environment.
-
-🔗 **[View Project on GitHub](https://github.com/tharwat-farag/hospital-admissions-data-pipeline)**
-
----
-
-### 🚀 Selenium ETL Pipeline
-
-- Automated web scraping and data extraction.
-- Integrated API-based data collection.
-- Performed data transformation using Pandas.
-- Stored processed data using SQLite.
-
-🔗 **[View Project on GitHub](https://github.com/tharwat-farag/selenium-etl-pipeline)**
-
----
-
-### 🚀 E-Commerce SQL Database
-
-- Designed a relational SQL Server database.
-- Implemented database schema and realistic data population.
-- Developed business-focused analytical queries.
-- Applied relational data modeling and query optimization.
-
-🔗 **[View Project on GitHub](https://github.com/tharwat-farag/Ecommerce_SQL_Project)**
-
----
-
-## 📚 Current Focus
-
-- Microsoft Fabric
-- Lakehouse Architecture
-- Apache Spark & PySpark
-- Delta Lake
-- Azure Data Factory
-- Advanced Data Warehousing
-- Scalable ETL/ELT Pipelines
-- Data Quality & Validation
-- Modern Data Engineering Architecture
+- Building reliable and testable ETL/ELT pipelines
+- Microsoft Fabric and modern data platform architecture
+- Data quality, validation, and pipeline observability
+- Dimensional modeling and analytical data warehouses
+- Retail data engineering and business-ready datasets
+- Scalable and maintainable data processing workflows
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing **Data Engineering, Microsoft Fabric, ETL/ELT, Data Warehousing, Big Data, and modern data platforms** opportunities.
-
----
-
-## 🌐 Connect With Me
+I'm open to discussing Data Engineering opportunities, SQL and database engineering, modern data platforms, and projects where reliable data processing can support business operations and decision-making.
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/tharwat-farag">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tharwatbadreldin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tharwat-farag">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ **Microsoft Fabric • Data Engineering • Azure • Big Data • Data Quality**
-
+  <a href="https://www.linkedin.com/in/tharwat-farag">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tharwatbadreldin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/tharwat-farag">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-
-<i>Transforming Raw Data into Reliable, Scalable, Business-Ready Solutions.</i>
-
+  <em>Turning raw data into reliable, structured, and business-ready datasets.</em>
 </p>
