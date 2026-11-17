@@ -89,21 +89,25 @@ I'm particularly interested in applying Data Engineering to real business proble
 
 ## 🚀 Featured Projects
 
-### 1. RetailFlow — Supply Chain & Inventory Data Engineering
+### 1. OpsPulse — Retail & Distribution Business Operations Intelligence Platform
 
-**Technologies:** Python, PostgreSQL, Docker, SQL, ETL, Data Quality Testing
+**Technologies:** Python, PostgreSQL, Apache Airflow, FastAPI, SQLAlchemy, Next.js, TypeScript, Tailwind CSS, Docker, Neon, Vercel
 
-A hands-on Data Engineering portfolio project designed around retail supply chain and inventory analytics.
+An end-to-end business operations intelligence platform that integrates retail and distribution data across sales, inventory, procurement, goods receipts, suppliers, warehouses, and operating expenses.
 
-- Built a structured pipeline for processing raw data through Bronze and Silver layers.
-- Designed a PostgreSQL analytical warehouse with dimensional tables and inventory-related fact tables.
-- Developed data ingestion, transformation, validation, and warehouse-loading components.
-- Implemented data quality checks and a quarantine approach for invalid records.
-- Designed repeatable ingestion and transactional upsert workflows.
-- Used Docker Compose to support a reproducible local development environment.
-- Added automated tests to validate pipeline behavior and data quality.
+- Designed a Medallion data architecture: Raw → Bronze → Silver → Gold.
+- Built Python-based ingestion and transformation workflows to prepare reliable analytical data.
+- Orchestrated the pipeline with Apache Airflow, including a DAG containing 30 tasks.
+- Implemented data quality checks and automated validation across the pipeline.
+- Designed a PostgreSQL dimensional warehouse with 8 dimensions, 2 bridge tables, and 5 fact tables.
+- Developed 12 analytical API endpoints using FastAPI.
+- Built a Next.js and TypeScript dashboard with 9 operational views.
+- Added automated tests and documented 129 passing tests in the project README.
+- Deployed the frontend and API, with a cloud PostgreSQL database.
 
-🔗 **[View RetailFlow on GitHub](https://github.com/tharwat-farag/retailflow-data-engineering)**
+🔗 **[View OpsPulse on GitHub](https://github.com/tharwat-farag/OpsPulse)**  
+🌐 **[Live Dashboard](https://opspulse-frontend-seven.vercel.app)**  
+📘 **[API Documentation](https://ops-pulse-lake.vercel.app/docs)**
 
 ---
 
@@ -125,7 +129,29 @@ An end-to-end retail data project demonstrating how raw transaction data can be 
 
 ---
 
-### 3. SQL Server Data Warehouse & SSIS ETL Pipeline
+---
+
+### 3. RetailFlow — Supply Chain & Inventory Data Engineering
+
+**Technologies:** Python, PostgreSQL, Docker, SQL, ETL, Data Quality Testing
+
+A hands-on Data Engineering portfolio project designed around retail supply chain and inventory analytics.
+
+- Built a structured pipeline for processing raw data through Bronze and Silver layers.
+- Designed a PostgreSQL analytical warehouse with dimensional tables and inventory-related fact tables.
+- Developed data ingestion, transformation, validation, and warehouse-loading components.
+- Implemented data quality checks and a quarantine approach for invalid records.
+- Designed repeatable ingestion and transactional upsert workflows.
+- Used Docker Compose to support a reproducible local development environment.
+- Added automated tests to validate pipeline behavior and data quality.
+
+🔗 **[View RetailFlow on GitHub](https://github.com/tharwat-farag/retailflow-data-engineering)**
+
+---
+
+---
+
+### 4. SQL Server Data Warehouse & SSIS ETL Pipeline
 
 **Technologies:** SQL Server, SSIS, Star Schema, SSAS, SSRS
 
@@ -138,7 +164,9 @@ An end-to-end retail data project demonstrating how raw transaction data can be 
 
 ---
 
-### 4. Apache Airflow ETL Pipeline
+---
+
+### 5. Apache Airflow ETL Pipeline
 
 **Technologies:** Apache Airflow, Python, Docker, Astronomer
 
@@ -151,7 +179,9 @@ An end-to-end retail data project demonstrating how raw transaction data can be 
 
 ---
 
-### 5. Real Estate Data Platform
+---
+
+### 6. Real Estate Data Platform
 
 **Technologies:** Python, Web Scraping, Pandas, SQL Server
 
@@ -163,16 +193,6 @@ An end-to-end retail data project demonstrating how raw transaction data can be 
 🔗 **[View Real Estate Data Platform](https://github.com/tharwat-farag/real-estate-data-platform)**
 
 ---
-
-### 6. Hospital Admissions Big Data Pipeline
-
-**Technologies:** Python, Hadoop, Hive, Docker
-
-- Developed a containerized data processing environment.
-- Processed hospital admissions data using Python and Hive.
-- Transformed raw data into analytics-ready datasets.
-
-🔗 **[View Hospital Admissions Pipeline](https://github.com/tharwat-farag/hospital-admissions-data-pipeline)**
 
 ---
 
@@ -189,6 +209,8 @@ An end-to-end retail data project demonstrating how raw transaction data can be 
 
 ---
 
+---
+
 ### 8. E-Commerce SQL Database
 
 **Technologies:** SQL Server, Relational Data Modeling, Analytical SQL
@@ -199,6 +221,22 @@ An end-to-end retail data project demonstrating how raw transaction data can be 
 - Applied relational modeling and query optimization techniques.
 
 🔗 **[View E-Commerce SQL Project](https://github.com/tharwat-farag/Ecommerce_SQL_Project)**
+
+---
+
+---
+
+### 9. Hospital Admissions Big Data Pipeline
+
+**Technologies:** Python, Hadoop, Hive, Docker
+
+- Developed a containerized data processing environment.
+- Processed hospital admissions data using Python and Hive.
+- Transformed raw data into analytics-ready datasets.
+
+🔗 **[View Hospital Admissions Pipeline](https://github.com/tharwat-farag/hospital-admissions-data-pipeline)**
+
+---
 
 ---
 
