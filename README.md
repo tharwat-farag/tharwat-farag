@@ -129,8 +129,6 @@ An end-to-end retail data project demonstrating how raw transaction data can be 
 
 ---
 
----
-
 ### 3. RetailFlow — Supply Chain & Inventory Data Engineering
 
 **Technologies:** Python, PostgreSQL, Docker, SQL, ETL, Data Quality Testing
@@ -149,8 +147,6 @@ A hands-on Data Engineering portfolio project designed around retail supply chai
 
 ---
 
----
-
 ### 4. SQL Server Data Warehouse & SSIS ETL Pipeline
 
 **Technologies:** SQL Server, SSIS, Star Schema, SSAS, SSRS
@@ -164,8 +160,6 @@ A hands-on Data Engineering portfolio project designed around retail supply chai
 
 ---
 
----
-
 ### 5. Apache Airflow ETL Pipeline
 
 **Technologies:** Apache Airflow, Python, Docker, Astronomer
@@ -176,67 +170,6 @@ A hands-on Data Engineering portfolio project designed around retail supply chai
 - Explored workflow orchestration, monitoring, and dependency management.
 
 🔗 **[View Airflow ETL Pipeline](https://github.com/tharwat-farag/airflow-etl-pipeline)**
-
----
-
----
-
-### 6. Real Estate Data Platform
-
-**Technologies:** Python, Web Scraping, Pandas, SQL Server
-
-- Built a data pipeline for collecting and processing real estate listings.
-- Applied data cleaning and validation to extracted records.
-- Stored processed data in SQL Server.
-- Prepared analytical datasets and business KPIs.
-
-🔗 **[View Real Estate Data Platform](https://github.com/tharwat-farag/real-estate-data-platform)**
-
----
-
----
-
-### 7. Selenium ETL Pipeline
-
-**Technologies:** Selenium, Python, Pandas, SQLite
-
-- Automated web data extraction.
-- Integrated API-based data collection.
-- Transformed extracted data using Pandas.
-- Stored processed records in SQLite.
-
-🔗 **[View Selenium ETL Pipeline](https://github.com/tharwat-farag/selenium-etl-pipeline)**
-
----
-
----
-
-### 8. E-Commerce SQL Database
-
-**Technologies:** SQL Server, Relational Data Modeling, Analytical SQL
-
-- Designed a relational database schema for an e-commerce use case.
-- Populated the database with realistic sample data.
-- Developed SQL queries for business-focused analysis.
-- Applied relational modeling and query optimization techniques.
-
-🔗 **[View E-Commerce SQL Project](https://github.com/tharwat-farag/Ecommerce_SQL_Project)**
-
----
-
----
-
-### 9. Hospital Admissions Big Data Pipeline
-
-**Technologies:** Python, Hadoop, Hive, Docker
-
-- Developed a containerized data processing environment.
-- Processed hospital admissions data using Python and Hive.
-- Transformed raw data into analytics-ready datasets.
-
-🔗 **[View Hospital Admissions Pipeline](https://github.com/tharwat-farag/hospital-admissions-data-pipeline)**
-
----
 
 ---
 
